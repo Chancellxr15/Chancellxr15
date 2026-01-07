@@ -1,8 +1,8 @@
 👋 Hello, I’m Chance Debbs
 
-I’m a cybersecurity-focused learner and practitione with a strong interest in Blue Team operations. My goal is to build and protect secure systems by understanding both how attacks work and how to detect, analyze, and respond to them effectively.
+I’m a cybersecurity focused learner with a strong interest in Blue Team and defensive security operations. My goal is to protect secure systems by understanding how attacks work and applying analytical detection and response techniques to real world threats.
 
-I currently hold the CompTIA Security+ and CySA+, with a primary focus on Blue Team operations. I’m also interested in cloud security, particularly AWS, and I’m motivated to work in environments centered around security monitoring, threat detection, and incident response.
+I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive security in an analyst role with an interest in working in environments centered around security monitoring, threat detection, and incident response.
 
 🔐 What I’m Focused On
 
