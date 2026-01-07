@@ -1,18 +1,55 @@
-## Hi there 👋 
-## Testing testing 
-## 🔵🟦
+👋 Hello, I’m Chance Debbs
 
-<!--
-**Chancellxr15/Chancellxr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity-focused learner and practitione with a strong interest in Blue Team operations. My goal is to build and protect secure systems by understanding both how attacks work and how to detect, analyze, and respond to them effectively.
 
-Here are some ideas to get you started: hghvg
+I currently hold the CompTIA Security+ and CySA+, with a primary focus on Blue Team operations. I’m also interested in cloud security, particularly AWS, and I’m motivated to work in environments centered around security monitoring, threat detection, and incident response.
 
-## 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 What I’m Focused On
+
+🛡️ Blue Team Security
+
+  - Threat detection & analysis
+
+  - Incident response fundamentals
+
+  - Log analysis & monitoring concepts
+
+  - Defensive security tooling and methodologies
+
+☁️ Cloud Security
+
+  - Identity & Access Management (IAM)
+
+  - Secure cloud architectures
+
+  - Monitoring, logging, and visibility
+
+  - Understanding shared responsibility models
+
+📘 Hands-On Learning
+
+  - TryHackMe labs & challenges
+
+  - Cybersecurity projects and simulations
+
+  - Applying theory from certifications into practice
+
+🎯 Career Goals
+
+  - My long-term goal is to work in a Security Analyst or Cloud Security role, contributing to:
+
+      - Protecting cloud and on-prem environments
+
+      - Detecting and responding to real-world threats
+
+      - Improving security posture through continuous learning and hands-on experience
+
+ - I’m particularly interested in roles that blend cloud platforms, security operations, and analytical security monitoring and response.
+
+🛠️ What You’ll Find on My GitHub
+
+  - Cybersecurity-related projects and notes
+
+  - Labs and experiments from hands-on learning
+
+  - Documentation that reflects my growth in cloud security and Blue Team skills
