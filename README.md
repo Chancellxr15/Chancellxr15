@@ -28,7 +28,7 @@ I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive 
 
 📘 Hands-On Learning
 
-  - TryHackMe labs & challenges
+  - TryHackMe/HackTheBox labs & challenges
 
   - Cybersecurity projects and simulations
 
