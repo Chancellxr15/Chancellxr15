@@ -1,6 +1,6 @@
 👋 Hello, I’m Chance Debbs
 
-I’m a cybersecurity focused learner with a strong interest in Blue Team and defensive security operations. My goal is to protect secure systems by understanding how attacks work and applying analytical detection and response techniques to real world threats.
+I’m a cybersecurity focused learner with a strong interest in Blue Team and defensive security operations. My goal is to protect secure systems by understanding how attacks work and applying analytical defensive measures.
 
 I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive security in an analyst role with an interest in working in environments centered around security monitoring, threat detection, and incident response.
 
@@ -53,3 +53,15 @@ I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive 
   - Labs and experiments from hands-on learning
 
   - Documentation that reflects my growth in cloud security and Blue Team skills
+
+Featured Projects — quick links
+
+I maintain a dedicated repository with my hands-on cybersecurity work. Browse the main project categories directly from my profile:
+
+- Labs: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/labs
+- Malware Analysis: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/malware
+- Cloud Security: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/cloud
+- Reports & SIEM: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/reports
+- Attack Simulations: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/simulations
+
+If you'd like the links formatted differently (inline badges, icons, or a concise one-line summary), I can update the README accordingly.
