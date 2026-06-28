@@ -56,12 +56,8 @@ I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive 
 
 Featured Projects — quick links
 
-I maintain a dedicated repository with my hands-on cybersecurity work. Browse the main project categories directly from my profile:
+I maintain a dedicated repository with my hands-on cybersecurity work. To make navigation easier, the links below now point to the main Cybersecurity-Projects README which contains organized category links and documentation.
 
-- Labs: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/labs
-- Malware Analysis: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/malware
-- Cloud Security: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/cloud
-- Reports & SIEM: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/reports
-- Attack Simulations: https://github.com/Chancellxr15/Cybersecurity-Projects/tree/main/simulations
+- Cybersecurity Projects (full portfolio): https://github.com/Chancellxr15/Cybersecurity-Projects/blob/main/README.md
 
 If you'd like the links formatted differently (inline badges, icons, or a concise one-line summary), I can update the README accordingly.
