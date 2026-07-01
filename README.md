@@ -54,4 +54,4 @@ I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive 
 
   - Documentation that reflects my growth in cloud security and Blue Team skills
 
-- Cybersecurity Portfolio (full portfolio): https://github.com/Chancellxr15/Cybersecurity-Portfolio/blob/main/README.md
+- [Cybersecurity Portfolio](https://github.com/Chancellxr15/Cybersecurity-Portfolio/blob/main/README.md)
