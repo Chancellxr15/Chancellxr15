@@ -1,57 +1,50 @@
-👋 Hello, I’m Chance Debbs
+# 👋 Hi, I'm Chance Debbs
 
-I’m a cybersecurity focused learner with a strong interest in Blue Team and defensive security operations. My goal is to protect secure systems by understanding how attacks work and applying anal[...]
+I'm a cybersecurity-focused learner with a passion for **Blue Team and defensive security operations**. I'm driven by understanding *how* attacks work so I can build better defenses — analyzing threats, monitoring systems, and strengthening security posture from the inside out.
 
-I currently hold the CompTIA Security+ and CySA+. My primary focus is defensive security in an analyst role with an interest in working in environments centered around security monitoring, threat d[...]
+🔎 **[Explore My Full Cybersecurity Portfolio →](https://github.com/Chancellxr15/Cybersecurity-Portfolio/blob/main/README.md)**
 
-🔐 What I’m Focused On
+I currently hold **CompTIA Security+** and **CompTIA CySA+**, and I'm focused on building a career as a defensive security analyst — working in environments centered around security monitoring, threat detection, and incident response.
 
-🛡️ Blue Team Security
+---
 
-  - Threat detection & analysis
+## 🔐 What I'm Focused On
 
-  - Incident response fundamentals
+### 🛡️ Blue Team Security
+- Threat detection & analysis
+- Incident response fundamentals
+- Log analysis & monitoring concepts
+- Defensive security tooling and methodologies
 
-  - Log analysis & monitoring concepts
+### ☁️ Cloud Security
+- Identity & Access Management (IAM)
+- Secure cloud architecture design
+- Monitoring, logging, and visibility
+- Shared responsibility model best practices
 
-  - Defensive security tooling and methodologies
+### 📘 Hands-On Learning
+- TryHackMe / HackTheBox labs & challenges
+- Real-world cybersecurity projects and simulations
+- Turning certification theory into practical, applied skills
 
-☁️ Cloud Security
+---
 
-  - Identity & Access Management (IAM)
+## 🎯 Career Goals
 
-  - Secure cloud architectures
+My long-term goal is to grow into a **Security Analyst** or **Cloud Security** role, where I can:
 
-  - Monitoring, logging, and visibility
+- Protect cloud and on-prem environments from evolving threats
+- Detect and respond to real-world security incidents
+- Continuously improve security posture through hands-on experience and learning
 
-  - Understanding shared responsibility models
+I'm especially drawn to roles that blend **cloud platforms**, **security operations**, and **analytical threat monitoring** — where I can apply both technical depth and investigative thinking.
 
-📘 Hands-On Learning
+---
 
-  - TryHackMe/HackTheBox labs & challenges
+## 🛠️ What You'll Find on My GitHub
 
-  - Cybersecurity projects and simulations
+- 🔍 Cybersecurity-related projects and documentation
+- 🧪 Labs and experiments from hands-on learning
+- 📈 Documentation reflecting my growth in cloud security and Blue Team skills
 
-  - Applying theory from certifications into practice
-
-🎯 Career Goals
-
-  - My long-term goal is to work in a Security Analyst or Cloud Security role, contributing to:
-
-      - Protecting cloud and on-prem environments
-
-      - Detecting and responding to real-world threats
-
-      - Improving security posture through continuous learning and hands-on experience
-
- - I’m particularly interested in roles that blend cloud platforms, security operations, and analytical security monitoring and response.
-
-🛠️ What You’ll Find on My GitHub
-
-  - Cybersecurity-related projects and notes
-
-  - Labs and experiments from hands-on learning
-
-  - Documentation that reflects my growth in cloud security and Blue Team skills
-
-- FULL CYBERSECURITY PROJECTS: [Cybersecurity Portfolio](https://github.com/Chancellxr15/Cybersecurity-Portfolio/blob/main/README.md)
+---
